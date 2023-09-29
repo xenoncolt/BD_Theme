@@ -1,0 +1,44 @@
+@font-face {
+    font-family: comicaBd;
+    src: url(./font/comicaBD/Comica\ BD.ttf);
+}
+
+@font-face {
+    font-family: FiraCode-Bold;
+    src: url(./font/FiraCode/FiraCode-Bold.woff2);
+}
+
+@font-face {
+    font-family: FiraCode-Light;
+    src: url(./font/FiraCode/FiraCode-Light.woff2);
+}
+
+@font-face {
+    font-family: FiraCode-Medium;
+    src: url(./font/FiraCode/FiraCode-Medium.woff2);
+}
+
+@font-face {
+    font-family: Firacode-Regular;
+    src: url(./font/FiraCode/FiraCode-Regular.woff2);
+}
+
+#app-mount .typeWindows-2-g3UY {
+    background-color: var(--secondary3-colour); 
+    border-bottom: 2px solid var(--primary3-colour); 
+    height: 30px;
+    margin: 0px;
+}
+#app-mount .typeWindows-2-g3UY:after {
+    content: "Xenon Colt Discord";
+    color: rgb(255,255,255,0.5);
+    font-weight: 1000;
+    font-family: 'comicaBd';
+
+    position: absolute;
+    top: 8px;
+    left: 43.2%;
+}
+
+#app-mount .wordmark-2u86JB {top: 3.3px;}
+#app-mount .winButton-3UMjdg {top: 1px;}
