@@ -26,7 +26,7 @@
 #app-mount .typeWindows-2-g3UY {
     background-color: var(--secondary3-colour); 
     border-bottom: 2px solid var(--primary3-colour); 
-    height: 30px;
+    height: 20px;
     margin: 0px;
 }
 #app-mount .typeWindows-2-g3UY:after {
@@ -36,7 +36,7 @@
     font-family: 'comicaBd';
 
     position: absolute;
-    top: 8px;
+    top: 2px;
     left: 46%;
 }
 
