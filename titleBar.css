@@ -23,13 +23,13 @@
     src: url(./font/FiraCode/FiraCode-Regular.woff2);
 }
 
-#app-mount .typeWindows-3ILlhq {
+#app-mount .typeWindows__5fa63 {
     background-color: var(--secondary3-colour); 
     border-bottom: 2px solid var(--primary3-colour); 
     height: 20px;
     margin: 0px;
 }
-#app-mount .typeWindows-3ILlhq:after {
+#app-mount .typeWindows__5fa63:after {
     content: "Xenon Colt Discord";
     color: rgb(255,255,255,0.5);
     font-weight: 1000;
@@ -40,7 +40,7 @@
     left: 46%;
 }
 
-#app-mount .wordmark-3wYFg6 {
+#app-mount .wordmark__0d178 {
     display: none;
 }
 /* #app-mount .winButton-3UMjdg {top: 1px;} */
