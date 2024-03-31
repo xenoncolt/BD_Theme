@@ -23,13 +23,13 @@
     src: url(./font/FiraCode/FiraCode-Regular.woff2);
 }
 
-#app-mount .typeWindows__e41dab {
+#app-mount .typeWindows_e41dab {
     background-color: var(--secondary3-colour); 
     border-bottom: 2px solid var(--primary3-colour); 
     height: 20px;
     margin: 0px;
 }
-#app-mount .typeWindows__e41dab:after {
+#app-mount .typeWindows_e41dab:after {
     content: "Xenon Colt Discord";
     color: rgb(255,255,255,0.5);
     font-weight: 1000;
